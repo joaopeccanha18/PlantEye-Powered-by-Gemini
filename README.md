@@ -1,5 +1,4 @@
 # PlantEye-Powered-by-Gemini
-A AI assistant to help you a care your plants.
 PlantEye 2.0 - IA de Acessibilidade Botânica
 O PlantEye é um assistente inteligente focado em inclusão. Ele utiliza a visão multimodal do Google Gemini para auxiliar pessoas com deficiência visual ou auditiva no cuidado de plantas, oferecendo monitoramento contínuo ou consultas sob demanda.
 
